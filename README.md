@@ -1,7 +1,29 @@
-# Navel Rock and Birth Island Restoration
+# Navel Rock + Birth Island Restoration
 
-Provides access to Navel Rock and Birth Island in FireRed/LeafGreen
+Restore two of FireRed and LeafGreen's most famous event destinations as part of the normal postgame.
 
-After catching the legendary birds and beasts, Celio will give you the MysticTicket for Navel Rock. Catching Rayquaza unlocks the AuroraTicket for Birth Island in the same way. Raikou, Entei, and Suicune now roam in the same save instead of limiting you to the one chosen by your starter.
+**Navel Rock + Birth Island Restoration** turns the MysticTicket and AuroraTicket into rewards you can earn through play rather than limited-time distribution items. It also allows Raikou, Entei, and Suicune to coexist as roaming Pokémon in the same save.
 
-Untamed Advanced is used for the roaming Pokémon implementation. This only affects the legendary beasts. I do not intend to support normal spawns (mostly because I am lazy and this mod is made for my personal fire red pack) but if you wish to fork this to add that you may do so. Rayquaza is not added by this mod, so another mod is needed to get it, or go play Emerald.
+## Features
+
+- Restores normal access to Navel Rock and Birth Island
+- Earn the MysticTicket after catching the legendary birds and beasts
+- Earn the AuroraTicket after catching Rayquaza
+- Raikou, Entei, and Suicune can all roam in one save
+- Integrates the original event islands into postgame progression
+
+## Screenshots
+
+| MysticTicket | Navel Rock | Birth Island |
+| :---: | :---: | :---: |
+| _Screenshot coming soon_ | _Screenshot coming soon_ | _Screenshot coming soon_ |
+
+## Compatibility
+
+**Untamed Advanced** is used for the expanded roaming Pokémon behavior. **National Dex Gen 3** is supported for expanded species content.
+
+Rayquaza is not added by this mod; the AuroraTicket condition is intended for setups where Rayquaza is obtainable elsewhere.
+
+## Installation
+
+Install **Navel Rock + Birth Island Restoration** through G1R Deluxe's mod browser, or import the mod ZIP manually.
