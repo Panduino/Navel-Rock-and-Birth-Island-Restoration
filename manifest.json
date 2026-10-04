@@ -1,0 +1,17 @@
+{
+  "id": "navel_rock_birth_island_events",
+  "name": "Navel Rock + Birth Island Restoration",
+  "version": "0.1.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "overhaul",
+  "category": "GAMEPLAY",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "priority": 110,
+  "dependencies": [],
+  "optional_dependencies": ["untamed_advanced", "national_dex_gen3"],
+  "conflicts": [],
+  "description": "Restores access to Navel Rock and Birth Island through in-game unlock events and enables all three legendary beasts as roamers.",
+  "github": "Panduino/Navel-Rock-and-Birth-Island-Restoration"
+}
